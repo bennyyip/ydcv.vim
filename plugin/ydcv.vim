@@ -1,3 +1,8 @@
+" ydcv.vim      ydcv in Vim
+" Author:       Ben Yip
+" Version:      1.0
+" URL:          https://github.com/bennyyip/ydcv.vim
+" ---------------------------------------------------------------------
 if  exists("g:loaded_ydcv")
   finish
 endif
